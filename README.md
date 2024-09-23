@@ -1,5 +1,5 @@
 Welcome, here's PlumLi's works
-| directory | Languages |
+| directory | files |
 |-----:|-----------|
 |  excercise | .py .ipynb|
 
